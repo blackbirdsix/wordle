@@ -1,0 +1,15 @@
+In wordle.py:
+
+import random
+import pandas as pd
+from IPython.display import clear_output
+from colorama import Fore
+
+
+In test_wordle.py:
+from colorama import Fore
+from IPython.display import clear_output
+import pytest
+from unittest.mock import Mock, patch
+
+import wordle
