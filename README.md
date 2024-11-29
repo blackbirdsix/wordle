@@ -1,1 +1,1 @@
-This is an imitation of wordle that runs in Jupyter notebooks. I'm new to coding and this was submitted for my class final, so I'm not sure of the extensions of the use of my code. This is also my first time using github and uploading.
+This is an imitation of NYT's Wordle that can be imported in a notebook enviornment. Have fun!
